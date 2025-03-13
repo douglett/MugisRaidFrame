@@ -1,0 +1,7 @@
+## Interface: 11505
+## Version: 1
+## Title: Mugi's Mini RaidFrame
+## Notes: Reduces the size of the default Blizzard raid frames (80% of normal).
+## Author: Mugi
+
+MugisMiniRaidFrame.lua
